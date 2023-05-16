@@ -134,8 +134,7 @@ urlpatterns = [
 
 ## Output:
 
-![output](https://github.com/karthickop6/serversideprocessing/blob/main/Screenshot%202023-05-16%20143914.png)
-
+![output](https://github.com/karthickop6/serversideprocessing/blob/main/Screenshot%202023-05-16%20144700.png)
 ## Result:
 
 The program for implementing server side processing is completed succesfully.
